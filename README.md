@@ -6,7 +6,7 @@ in Typescript. Dependencies are bundled with Webpack.
 ## Requirements
 
 ```
-npm install -g gulp tsc
+npm install -g gulp typescript
 ```
 
 ## Setup
